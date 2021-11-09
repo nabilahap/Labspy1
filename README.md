@@ -1,5 +1,19 @@
 # Labspy1
 
+### Profil
+__Nama  : Nabilah Ananda Putri__
+
+__Nim   : 312110263__
+
+__Kelas : T1.21.A.1__
+
+#### Daftar Isi
+| No | Lab | ISI | 
+| -- | --- | --- |
+| 1. |  2  | Latihan1 |
+| 2. |  2  | Latihan2 |
+| 3. |  3  | Latihan1 |
+| 4. |  3  | Latihan2 |
 ## Lab 2
 ### Latihan1
 #### Program dan Output
